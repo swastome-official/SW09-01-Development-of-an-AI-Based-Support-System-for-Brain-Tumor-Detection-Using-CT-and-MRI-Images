@@ -1,6 +1,12 @@
 # SW09-01-Development-of-an-AI-Based-Support-System-for-Brain-Tumor-Detection-Using-CT-and-MRI-Images
 This project focuses on developing an AI-based support system to enhance the detection and diagnosis of brain tumors using CT and MRI images. The system aims to assist clinicians with accurate, efficient, and reliable image interpretation.
 
+Drive Link: https://drive.google.com/drive/folders/1tdTa5QedCRt0Z5rkA4kFYc75AtHOii9R?usp=drive_link
+
+Kaggle Dataset Link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data
+
+Github Repo Link: 
+
 Logic for the Development of an AI-Based Support System for Brain Tumor Detection Using CT and MRI Images
 
 Overview
