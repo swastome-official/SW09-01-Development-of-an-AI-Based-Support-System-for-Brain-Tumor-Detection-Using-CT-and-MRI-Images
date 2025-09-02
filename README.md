@@ -7,8 +7,6 @@ Kaggle Dataset Link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumo
 
 Github Repo Link: https://github.com/swastome-official/SW09-01-Development-of-an-AI-Based-Support-System-for-Brain-Tumor-Detection-Using-CT-and-MRI-Images
 
-Github Codespcae: https://psychic-invention-pjqwx7gpprpx3rwq6.github.dev/
-
 Logic for the Development of an AI-Based Support System for Brain Tumor Detection Using CT and MRI Images
 
 Overview
